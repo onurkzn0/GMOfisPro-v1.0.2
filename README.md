@@ -1,49 +1,51 @@
 <div align="center">
 
-# 🚀 GM Ofis Pro  
-### Gümrük, Dış Ticaret ve Evrak Yönetimi için Profesyonel Ofis Yazılımı
+<img src="https://gmofis.com/storage/site-assets/01KCJ5HN8Z8K8QRFR8XTJ7TXVV.png" alt="GM Ofis Pro Logo" width="160"/>
 
-![GM Ofis Pro](https://img.shields.io/badge/Status-Active-success)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A3D62&height=120&section=header&text=GM%20Ofis%20Pro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+### Gümrük, Dış Ticaret ve Evrak Yönetimi için Profesyonel Yazılım  
+### Professional Customs & Foreign Trade Office Software
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Windows-0A3D62)
 ![Version](https://img.shields.io/badge/Version-1.0.7.0-orange)
 ![License](https://img.shields.io/badge/License-Commercial-red)
 
 ---
 
-<p align="center">
-  <a href="#-özellikler">
-    <img src="https://img.shields.io/badge/Özellikler-Detaylı-informational?style=for-the-badge">
-  </a>
-  <a href="#-kurulum">
-    <img src="https://img.shields.io/badge/Kurulum-Rehberi-success?style=for-the-badge">
-  </a>
-  <a href="#-sürüm-notları">
-    <img src="https://img.shields.io/badge/Sürüm%20Notları-Changelog-orange?style=for-the-badge">
-  </a>
-  <a href="#-destek">
-    <img src="https://img.shields.io/badge/Destek-İletişim-blue?style=for-the-badge">
-  </a>
-</p>
+### 🌐 Dil Seçimi | Language Selection
+
+<a href="#-türkçe">
+  <img src="https://img.shields.io/badge/Türkçe-TR-0A3D62?style=for-the-badge">
+</a>
+<a href="#-english">
+  <img src="https://img.shields.io/badge/English-EN-555555?style=for-the-badge">
+</a>
 
 </div>
 
 ---
 
+# 🇹🇷 Türkçe
+
 ## 📌 GM Ofis Pro Nedir?
 
-**GM Ofis Pro**, gümrük müşavirleri, dış ticaret firmaları ve ofis ortamları için geliştirilmiş  
-**modern, hızlı ve modüler** bir masaüstü yazılımıdır.
+**GM Ofis Pro**, gümrük müşavirleri, dış ticaret firmaları ve kurumsal ofisler için geliştirilmiş  
+**modern, güvenli ve modüler** bir masaüstü yazılımıdır.
 
-CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve AI destekli özellikleri tek bir platformda sunar.
+CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve **Yapay Zeka destekli** araçları tek bir platformda sunar.
 
 ---
 
 ## ✨ Özellikler
 
-### 🧩 Modüler Sistem
-- Eklenti / Modül tabanlı yapı
-- İhtiyaca göre aktif / pasif modüller
-- Merkezi modül yönetim ekranı
+### 🧩 Modüler Mimari
+- Eklenti / modül tabanlı yapı
+- İhtiyaca göre modül yönetimi
+- Merkezi kontrol paneli
 
 ### 📄 CMR & CED Yönetimi
 - XML’den CMR oluşturma
@@ -52,19 +54,19 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve AI destekli özellikleri tek
 - Şablon bazlı CMR yönetimi
 
 ### ☁️ Bulut & Altyapı
-- Bulut veritabanı ve depolama desteği
+- Bulut veritabanı ve depolama
 - PostgreSQL veritabanı
 - Yeni nesil API altyapısı
 
-### 🤖 Yapay Zeka Desteği
+### 🤖 Yapay Zeka
 - AI Asistan
 - AI Chat Box
-- Veri analizine yardımcı akıllı öneriler
+- Akıllı analiz ve öneriler
 
-### 🎨 Arayüz & Kullanılabilirlik
+### 🎨 Arayüz
 - Dark / Light Tema
 - Modern Dashboard
-- Canlı istatistik kartları
+- Canlı istatistikler
 - Çoklu pencere / sekme sistemi
 
 ---
@@ -76,19 +78,17 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve AI destekli özellikleri tek
 | İşletim Sistemi | Windows 10 / 11 (64-bit) |
 | RAM | Minimum 4 GB |
 | Disk Alanı | 500 MB |
-| Veritabanı | PostgreSQL (Dahili / Harici) |
-| İnternet | Güncelleme & Bulut özellikleri için gerekli |
+| Veritabanı | PostgreSQL |
+| İnternet | Güncelleme & bulut özellikleri |
 
 ---
 
 ## 🛠️ Kurulum
 
-1. **Setup dosyasını** indirin.
+1. Kurulum dosyasını indirin.
 2. `GMOfisPro_Setup_vX.X.X.X.exe` dosyasını çalıştırın.
-3. Kurulum sihirbazındaki adımları takip edin.
-4. Program otomatik olarak:
-   - Yeni kurulum yapar **veya**
-   - Mevcut sürümü günceller.
+3. Kurulum sihirbazını takip edin.
+4. Program otomatik olarak kurulacak veya güncellenecektir.
 
 > ⚠️ Yönetici (Administrator) yetkisi önerilir.
 
@@ -96,46 +96,125 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve AI destekli özellikleri tek
 
 ## 📦 Sürüm Notları
 
-📌 Güncel sürüm: **v1.0.7.0**
-
-Tüm sürüm geçmişi için:  
+📌 Güncel sürüm: **v1.0.7.0**  
 ➡️ **[CHANGELOG.txt](./CHANGELOG.txt)**
 
 ---
 
-## 🔐 Lisanslama
+## 👨‍💻 Geliştirici
 
-- GM Ofis Pro **ticari bir yazılımdır**.
-- Lisans doğrulama sistemi ile çalışır.
-- Deneme, bireysel ve kurumsal lisans seçenekleri mevcuttur.
-
----
-
-## 🧑‍💻 Geliştirici & Katkı
-
-- Geliştirici: **GM Yazılım**
-- Altyapı: .NET / PostgreSQL / REST API
-- Build Sistemi: Inno Setup + PowerShell
-
-Katkıda bulunmak için:
-- Fork 🍴
-- Feature branch oluştur 🌱
-- Pull Request gönder 🚀
+**Onur Kazan**  
+🌐 https://onurkzn.com  
 
 ---
 
-## 🆘 Destek
+## 🌍 Proje Web Sitesi
 
-Her türlü soru, hata bildirimi ve önerileriniz için:
+🌐 https://gmofis.com  
 
-- 📩 **Issues** bölümünü kullanabilirsiniz
-- 📘 Dokümantasyon: Yakında
-- 🌐 Web Sitesi: (yakında)
+---
+
+## 📬 İletişim
+
+📧 **info@gmofis.com**
+
+---
+
+---
+
+# 🇬🇧 English
+
+## 📌 What is GM Ofis Pro?
+
+**GM Ofis Pro** is a **modern, secure and modular desktop application**  
+developed for customs brokers, foreign trade companies and corporate offices.
+
+It brings together **CMR, CED, E-Invoice, Document Archive, Analysis Tracking and AI-powered tools** in one platform.
+
+---
+
+## ✨ Features
+
+### 🧩 Modular Architecture
+- Plugin / module-based system
+- Flexible module management
+- Central control panel
+
+### 📄 CMR & CED Management
+- Generate CMR from XML
+- Automatic CMR → CED data transfer
+- Export CED as PDF
+- Template-based workflows
+
+### ☁️ Cloud & Infrastructure
+- Cloud database and storage
+- PostgreSQL support
+- Modern API infrastructure
+
+### 🤖 Artificial Intelligence
+- AI Assistant
+- AI Chat Box
+- Smart analysis and recommendations
+
+### 🎨 User Interface
+- Dark / Light themes
+- Modern dashboard
+- Live statistics
+- Multi-window / tab system
+
+---
+
+## ⚙️ System Requirements
+
+| Component | Requirement |
+|------|-----------|
+| OS | Windows 10 / 11 (64-bit) |
+| RAM | Minimum 4 GB |
+| Storage | 500 MB |
+| Database | PostgreSQL |
+| Internet | Required for updates & cloud features |
+
+---
+
+## 🛠️ Installation
+
+1. Download the setup file.
+2. Run `GMOfisPro_Setup_vX.X.X.X.exe`.
+3. Follow the installation wizard.
+4. The application will install or update automatically.
+
+> ⚠️ Administrator privileges are recommended.
+
+---
+
+## 📦 Release Notes
+
+📌 Latest version: **v1.0.7.0**  
+➡️ **[CHANGELOG.txt](./CHANGELOG.txt)**
+
+---
+
+## 👨‍💻 Developer
+
+**Onur Kazan**  
+🌐 https://onurkzn.com  
+
+---
+
+## 🌍 Project Website
+
+🌐 https://gmofis.com  
+
+---
+
+## 📬 Contact
+
+📧 **info@gmofis.com**
 
 ---
 
 <div align="center">
 
-### ⭐ Eğer projeyi beğendiysen yıldız vermeyi unutma!
+### ⭐ If you like this project, don’t forget to give it a star!
 
 </div>
