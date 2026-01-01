@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A3D62&height=120&section=header&text=GM%20Ofis%20Pro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A3D62&height=130&section=header&text=GM%20Ofis%20Pro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 ### Gümrük, Dış Ticaret ve Evrak Yönetimi için Profesyonel Yazılım  
 ### Professional Customs & Foreign Trade Office Software
@@ -13,6 +13,14 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0A3D62)
 ![Version](https://img.shields.io/badge/Version-1.0.7.0-orange)
 ![License](https://img.shields.io/badge/License-Commercial-red)
+
+---
+
+### ⬇️ Hızlı İndirme | Quick Download
+
+<a href="https://github.com/onurkzn0/GMOfisPro-v1.0.2/releases/download/v1.0.7.0/GMOfisPro_Setup_v1.0.7.0.exe">
+  <img src="https://img.shields.io/badge/GM%20Ofis%20Pro%20v1.0.7.0-Download-0A3D62?style=for-the-badge&logo=windows">
+</a>
 
 ---
 
@@ -45,7 +53,7 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve **Yapay Zeka destekli** ara�
 ### 🧩 Modüler Mimari
 - Eklenti / modül tabanlı yapı
 - İhtiyaca göre modül yönetimi
-- Merkezi kontrol paneli
+- Merkezi modül kontrol paneli
 
 ### 📄 CMR & CED Yönetimi
 - XML’den CMR oluşturma
@@ -85,8 +93,8 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve **Yapay Zeka destekli** ara�
 
 ## 🛠️ Kurulum
 
-1. Kurulum dosyasını indirin.
-2. `GMOfisPro_Setup_vX.X.X.X.exe` dosyasını çalıştırın.
+1. Yukarıdaki **İndirme** butonunu kullanarak setup dosyasını indirin.
+2. `GMOfisPro_Setup_v1.0.7.0.exe` dosyasını çalıştırın.
 3. Kurulum sihirbazını takip edin.
 4. Program otomatik olarak kurulacak veya güncellenecektir.
 
@@ -114,9 +122,10 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve **Yapay Zeka destekli** ara�
 
 ---
 
-## 📬 İletişim
+## 📬 İletişim & Destek
 
-📧 **info@gmofis.com**
+📧 **info@gmofis.com**  
+🐞 Hata ve talepler için **Issues** bölümünü kullanabilirsiniz.
 
 ---
 
@@ -167,7 +176,8 @@ It brings together **CMR, CED, E-Invoice, Document Archive, Analysis Tracking an
 ## ⚙️ System Requirements
 
 | Component | Requirement |
-|------|-----------|
+|
+------|-----------|
 | OS | Windows 10 / 11 (64-bit) |
 | RAM | Minimum 4 GB |
 | Storage | 500 MB |
@@ -178,8 +188,8 @@ It brings together **CMR, CED, E-Invoice, Document Archive, Analysis Tracking an
 
 ## 🛠️ Installation
 
-1. Download the setup file.
-2. Run `GMOfisPro_Setup_vX.X.X.X.exe`.
+1. Download the setup file using the **Download** button above.
+2. Run `GMOfisPro_Setup_v1.0.7.0.exe`.
 3. Follow the installation wizard.
 4. The application will install or update automatically.
 
