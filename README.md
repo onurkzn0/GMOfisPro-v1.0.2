@@ -104,7 +104,7 @@ CMR, CED, E-Fatura, Evrak Arşivi, Analiz Takibi ve **Yapay Zeka destekli** ara�
 
 ## 📦 Sürüm Notları
 
-📌 Güncel sürüm: **v1.0.7.0**  
+📌 Güncel sürüm: **v1.0.7.7**  
 ➡️ **[CHANGELOG.txt](./CHANGELOG.txt)**
 
 ---
