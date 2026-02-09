@@ -11,7 +11,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0A3D62)
-![Version](https://img.shields.io/badge/Version-1.0.7.0-orange)
+![Version](https://img.shields.io/badge/Version-1.0.7.7-orange)
 ![License](https://img.shields.io/badge/License-Commercial-red)
 
 ---
